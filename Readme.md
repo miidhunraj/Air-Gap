@@ -1,6 +1,6 @@
-# Air-Gap Pro: Gesture-Based PC Control
+# Air-Gap : Gesture-Based PC Control
 
-Air-Gap Pro is a computer vision-based tool that allows you to control your PC using hand gestures. Built with Python, OpenCV, and MediaPipe, it transforms your webcam into a spatial controller.
+Air-Gap is a computer vision-based tool that allows you to control your PC using hand gestures. Built with Python, OpenCV, and MediaPipe, it transforms your webcam into a spatial controller.
 
 ## ✨ Features
 * **Smooth Mouse Control:** Real-time cursor movement with configurable smoothening.
@@ -11,8 +11,16 @@ Air-Gap Pro is a computer vision-based tool that allows you to control your PC u
 * **App Launcher:** Open your palm to trigger the menu mode.
 * **Dynamic Sensitivity:** Use **Up/Down arrows** to adjust responsiveness in real-time.
 
-## 🚀 Installation
+## ⬇️ Installation
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Air-Gap-Pro.git](https://github.com/YOUR_USERNAME/Air-Gap-Pro.git)
+   git clone [https://github.com/miidhunraj/Air-Gap.git](https://github.com/miidhunraj/Air-Gap.git)
+   
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the script:
+```bash
+python air_gap.py

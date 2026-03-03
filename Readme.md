@@ -18,9 +18,9 @@ Air-Gap is a computer vision-based tool that allows you to control your PC using
    git clone [https://github.com/miidhunraj/Air-Gap.git](https://github.com/miidhunraj/Air-Gap.git)
    
 2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+    pip install -r requirements.txt
+   ```
 3. Run the script:
-```bash
-python air_gap.py
+   ```bash
+   python air_gap.py

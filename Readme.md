@@ -1,4 +1,4 @@
-# Air-Gap : Gesture-Based PC Control
+# Air-Gap : Gesture Based Virtual Mouse
 
 Air-Gap is a computer vision-based tool that allows you to control your PC using hand gestures. Built with Python, OpenCV, and MediaPipe, it transforms your webcam into a spatial controller.
 

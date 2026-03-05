@@ -23,4 +23,5 @@ Air-Gap is a computer vision-based tool that allows you to control your PC using
    ```
 3. Run the script:
    ```bash
-   python air_gap.py
+   python mouse.py
+   ```

@@ -4,11 +4,9 @@ Air-Gap is a computer vision-based tool that allows you to control your PC using
 
 ## ✨ Features
 * **Smooth Mouse Control:** Real-time cursor movement with configurable smoothening.
-* **Smart Clicking:** Single, double-click, and right-click support.
+* **Smart Clicking:** Single, double-click, and right-left click support.
 * **Drag & Drop:** Pinch and hold thumb/index for >1s to grab windows or files.
 * **Virtual Scroll:** Pinch index and middle fingers together to enter scroll mode.
-* **Snipping Tool:** Use a "V-sign" (Peace sign) to select and capture screen regions.
-* **App Launcher:** Open your palm to trigger the menu mode.
 * **Dynamic Sensitivity:** Use **Up/Down arrows** to adjust responsiveness in real-time.
 
 ## ⬇️ Installation

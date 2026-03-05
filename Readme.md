@@ -2,7 +2,7 @@
 
 Air-Gap is a computer vision-based tool that allows you to control your PC using hand gestures. Built with Python, OpenCV, and MediaPipe, it transforms your webcam into a spatial controller.
 
-#www.google.com# ✨ Features
+##✨ Features
 * **Smooth Mouse Control:** Real-time cursor movement with configurable smoothening.
 * **Smart Clicking:** Single, double-click, and right-left click support.
 * **Drag & Drop:** Pinch and hold thumb/index for >1s to grab windows or files.
